@@ -185,7 +185,7 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
@@ -195,7 +195,7 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
@@ -206,8 +206,8 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -224,9 +224,9 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![Webots](https://img.shields.io/badge/Webots-FF6F00?style=flat-square&logoColor=white)
-![RDF](https://img.shields.io/badge/RDF-FF6600?style=flat-square&logoColor=white)
-![SPARQL](https://img.shields.io/badge/SPARQL-FF6600?style=flat-square&logoColor=white)
+![Webots](https://img.shields.io/badge/Webots-Robotics-FF6F00?style=flat-square)
+![RDF](https://img.shields.io/badge/RDF-Semantic_Web-FF6600?style=flat-square)
+![SPARQL](https://img.shields.io/badge/SPARQL-Query_Language-FF6600?style=flat-square)
 
 </div>
 

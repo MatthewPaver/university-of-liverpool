@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![University of Liverpool](https://img.shields.io/badge/University-Liverpool-C4122D?style=flat&logo=university&logoColor=white)
-![Computer Science](https://img.shields.io/badge/Computer_Science-Bachelor-4A90E2?style=flat)
-![License](https://img.shields.io/badge/License-Academic-blue?style=flat)
+![University of Liverpool](https://img.shields.io/badge/University_of_Liverpool-C4122D?style=flat-square&labelColor=C4122D&color=white)
+![Computer Science](https://img.shields.io/badge/Computer_Science-BSc-4A90E2?style=flat-square)
+![Academic](https://img.shields.io/badge/Academic-Coursework-blue?style=flat-square)
 
 **Coursework and Study Materials from Computer Science Degree**
 

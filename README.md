@@ -132,10 +132,10 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-Language-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Language-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Language-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-Language-025E8C?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -172,10 +172,10 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Language-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Language-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Haskell](https://img.shields.io/badge/Haskell-Language-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Language-025E8C?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -183,11 +183,11 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Framework-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Framework-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Library-F7931E?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-Library-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Library-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </div>
 
@@ -195,8 +195,8 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-Framework-E25A1C?style=flat-square&logo=apache&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -204,10 +204,10 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Platform-181717?style=flat-square&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square)
 
 </div>
 
@@ -215,8 +215,8 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 

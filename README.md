@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![University of Liverpool](https://img.shields.io/badge/University_of_Liverpool-C4122D?style=for-the-badge&labelColor=C4122D&color=FFFFFF)
+![University of Liverpool](https://img.shields.io/badge/University_of_Liverpool-C4122D?style=for-the-badge)
 ![Computer Science](https://img.shields.io/badge/Computer_Science-BSc_Hons-4A90E2?style=for-the-badge)
 ![Academic](https://img.shields.io/badge/Academic-Coursework-0080FF?style=for-the-badge)
 

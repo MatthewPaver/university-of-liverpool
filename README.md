@@ -2,9 +2,7 @@
 
 <div align="center">
 
-![University of Liverpool](https://img.shields.io/badge/University%20of%20Liverpool-C4122D?style=for-the-badge&labelColor=C4122D&color=FFFFFF)
-![Computer Science](https://img.shields.io/badge/Computer%20Science-BSc%20Hons-4A90E2?style=for-the-badge)
-![Academic](https://img.shields.io/badge/Academic-Coursework-0080FF?style=for-the-badge)
+### 🎓 University of Liverpool | 💻 Computer Science | 📚 Academic Coursework
 
 **Coursework and Study Materials from Computer Science Degree**
 

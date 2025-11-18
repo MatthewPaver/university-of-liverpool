@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![University of Liverpool](https://img.shields.io/badge/University_of_Liverpool-C4122D?style=flat-square&labelColor=C4122D&color=white)
-![Computer Science](https://img.shields.io/badge/Computer_Science-BSc-4A90E2?style=flat-square)
-![Academic](https://img.shields.io/badge/Academic-Coursework-blue?style=flat-square)
+![University of Liverpool](https://img.shields.io/badge/University_of_Liverpool-C4122D?style=for-the-badge&labelColor=C4122D&color=FFFFFF)
+![Computer Science](https://img.shields.io/badge/Computer_Science-BSc_Hons-4A90E2?style=for-the-badge)
+![Academic](https://img.shields.io/badge/Academic-Coursework-0080FF?style=for-the-badge)
 
 **Coursework and Study Materials from Computer Science Degree**
 
@@ -33,10 +33,10 @@ This repository contains coursework, assignments, projects, and study materials 
 
 ### Purpose
 
-- **Academic Record**: Documentation of coursework and projects completed during studies
-- **Reference Material**: Lecture notes, tutorials, and study resources
-- **Portfolio**: Showcase of technical skills and academic achievements
-- **Learning Resource**: Materials for future reference and review
+- **📚 Academic Record** — Documentation of coursework and projects completed during studies
+- **📖 Reference Material** — Lecture notes, tutorials, and study resources
+- **💼 Portfolio** — Showcase of technical skills and academic achievements
+- **🔍 Learning Resource** — Materials for future reference and review
 
 ---
 
@@ -58,22 +58,24 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 ### Core Modules
 
-- **COMP105 - Programming Paradigms** — Functional programming with Haskell, assignments covering recursion, data structures, and type systems
-- **COMP107 - Designing Systems for the Digital Society** — System design, healthtech projects, and digital innovation
-- **COMP108 - Data Structures and Algorithms** — Arrays, linked lists, trees, graphs, sorting algorithms, greedy algorithms, divide-and-conquer, dynamic programming
-- **COMP109 - Foundations of Computer Science** — Discrete mathematics, logic, sets, functions, relations, combinatorics
-- **COMP111 - Introduction to Artificial Intelligence** — AI agents, search algorithms, logic, learning, uncertainty
-- **COMP116 - Analytical Techniques for Computer Science** — Calculus, linear algebra, complex numbers, statistical methods
-- **COMP122 - Object-Oriented Programming** — Java programming, OOP principles, design patterns
-- **COMP124 - Computer Systems** — Computer architecture, operating systems, networking fundamentals
+| Module | Description |
+|--------|-------------|
+| **COMP105** | **Programming Paradigms** — Functional programming with Haskell, assignments covering recursion, data structures, and type systems |
+| **COMP107** | **Designing Systems for the Digital Society** — System design, healthtech projects, and digital innovation |
+| **COMP108** | **Data Structures and Algorithms** — Arrays, linked lists, trees, graphs, sorting algorithms, greedy algorithms, divide-and-conquer, dynamic programming |
+| **COMP109** | **Foundations of Computer Science** — Discrete mathematics, logic, sets, functions, relations, combinatorics |
+| **COMP111** | **Introduction to Artificial Intelligence** — AI agents, search algorithms, logic, learning, uncertainty |
+| **COMP116** | **Analytical Techniques for Computer Science** — Calculus, linear algebra, complex numbers, statistical methods |
+| **COMP122** | **Object-Oriented Programming** — Java programming, OOP principles, design patterns |
+| **COMP124** | **Computer Systems** — Computer architecture, operating systems, networking fundamentals |
 
 ### Key Topics Covered
 
-- Functional and object-oriented programming paradigms
-- Fundamental data structures and algorithms
-- Discrete mathematics and logic
-- Introduction to AI and machine learning concepts
-- Computer systems and architecture
+- ✅ Functional and object-oriented programming paradigms
+- ✅ Fundamental data structures and algorithms
+- ✅ Discrete mathematics and logic
+- ✅ Introduction to AI and machine learning concepts
+- ✅ Computer systems and architecture
 
 ---
 
@@ -81,21 +83,23 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 ### Core Modules
 
-- **COMP201 - Software Engineering** — Software development lifecycle, design patterns, UML diagrams, Java development
-- **COMP202 - Complexity of Algorithms** — Algorithm analysis, time complexity, space complexity, advanced algorithms
-- **COMP207 - Database Development** — SQL, database design, normalisation, relational databases
-- **COMP208 - Group Project** — Collaborative software development project
-- **COMP212 - Distributed Systems** — Distributed computing, ring algorithms, client-server architectures, RMI
-- **COMP219 - Advanced AI** — Machine learning, deep learning, neural networks, probabilistic graphical models
-- **COMP229 - Introduction to Data Science** — Data analysis, statistical methods, data visualisation
+| Module | Description |
+|--------|-------------|
+| **COMP201** | **Software Engineering** — Software development lifecycle, design patterns, UML diagrams, Java development |
+| **COMP202** | **Complexity of Algorithms** — Algorithm analysis, time complexity, space complexity, advanced algorithms |
+| **COMP207** | **Database Development** — SQL, database design, normalisation, relational databases |
+| **COMP208** | **Group Project** — Collaborative software development project |
+| **COMP212** | **Distributed Systems** — Distributed computing, ring algorithms, client-server architectures, RMI |
+| **COMP219** | **Advanced AI** — Machine learning, deep learning, neural networks, probabilistic graphical models |
+| **COMP229** | **Introduction to Data Science** — Data analysis, statistical methods, data visualisation |
 
 ### Key Topics Covered
 
-- Software engineering principles and practices
-- Database design and SQL
-- Distributed systems and networking
-- Advanced machine learning and deep learning
-- Data science fundamentals
+- ✅ Software engineering principles and practices
+- ✅ Database design and SQL
+- ✅ Distributed systems and networking
+- ✅ Advanced machine learning and deep learning
+- ✅ Data science fundamentals
 
 ---
 
@@ -103,26 +107,37 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 ### Core Modules
 
-- **COMP305 - Biocomputation** — Neural networks, perceptrons, multilayer perceptrons, biological computing
-- **COMP318 - Ontologies and Semantic Web** — RDF, OWL, SPARQL, knowledge graphs, ontology engineering
-- **COMP329 - Autonomous Mobile Robotics** — Robot control, occupancy mapping, Webots simulation, odometry
-- **COMP335 - Communicating Computer Science** — Teaching computer science, educational research, lesson planning
-- **COMP336 - Big Data Analytics** — Large-scale data processing, Spark, network science, scalable algorithms
-- **COMP337 - Data Mining & Visualisation** — Clustering algorithms, classification, association rule mining, data visualisation
+| Module | Description |
+|--------|-------------|
+| **COMP305** | **Biocomputation** — Neural networks, perceptrons, multilayer perceptrons, biological computing |
+| **COMP318** | **Ontologies and Semantic Web** — RDF, OWL, SPARQL, knowledge graphs, ontology engineering |
+| **COMP329** | **Autonomous Mobile Robotics** — Robot control, occupancy mapping, Webots simulation, odometry |
+| **COMP335** | **Communicating Computer Science** — Teaching computer science, educational research, lesson planning |
+| **COMP336** | **Big Data Analytics** — Large-scale data processing, Spark, network science, scalable algorithms |
+| **COMP337** | **Data Mining & Visualisation** — Clustering algorithms, classification, association rule mining, data visualisation |
 
 ### Key Topics Covered
 
-- Knowledge graphs and semantic web technologies
-- Autonomous robotics and control systems
-- Big data processing and analytics
-- Advanced data mining techniques
-- Computer science education
+- ✅ Knowledge graphs and semantic web technologies
+- ✅ Autonomous robotics and control systems
+- ✅ Big data processing and analytics
+- ✅ Advanced data mining techniques
+- ✅ Computer science education
 
 ---
 
 ## 🌟 Course Highlights
 
 ### Programming Languages
+
+<div align="center">
+
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
 
 - **Haskell** — Functional programming (Year 1)
 - **Java** — Object-oriented programming, distributed systems (Years 1-2)
@@ -132,12 +147,12 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 ### Key Projects
 
-- **Healthtech Digital Innovation** — System design project for healthcare technology
-- **Distributed Systems Ring Algorithm** — Implementation and evaluation of distributed algorithms
-- **Knowledge Graph Construction** — Building and querying knowledge graphs using RDF/OWL
-- **Autonomous Robot Navigation** — Occupancy mapping and robot control in Webots
-- **Big Data Analytics** — Large-scale data processing and analysis
-- **Clustering Algorithms** — Implementation and evaluation of K-means variants
+- 🏥 **Healthtech Digital Innovation** — System design project for healthcare technology
+- 🔄 **Distributed Systems Ring Algorithm** — Implementation and evaluation of distributed algorithms
+- 🕸️ **Knowledge Graph Construction** — Building and querying knowledge graphs using RDF/OWL
+- 🤖 **Autonomous Robot Navigation** — Occupancy mapping and robot control in Webots
+- 📊 **Big Data Analytics** — Large-scale data processing and analysis
+- 📈 **Clustering Algorithms** — Implementation and evaluation of K-means variants
 
 ### Technical Skills Developed
 
@@ -153,16 +168,65 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 ## 💻 Technologies Used
 
+### Programming Languages & Frameworks
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+### Machine Learning & Data Science
+
+<div align="center">
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</div>
+
+### Big Data & Processing
+
+<div align="center">
+
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+### Tools & Development
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+### Databases
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+### Other Technologies
+
+<div align="center">
+
 ![Webots](https://img.shields.io/badge/Webots-FF6F00?style=flat-square&logoColor=white)
+![RDF](https://img.shields.io/badge/RDF-FF6600?style=flat-square&logoColor=white)
+![SPARQL](https://img.shields.io/badge/SPARQL-FF6600?style=flat-square&logoColor=white)
 
 </div>
 
@@ -181,7 +245,7 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 ## ⚖️ Academic Integrity
 
-### Important Notice
+### ⚠️ Important Notice
 
 This repository contains coursework and assignments completed as part of my Computer Science degree at the University of Liverpool. These materials are provided for:
 
@@ -189,16 +253,17 @@ This repository contains coursework and assignments completed as part of my Comp
 - **Portfolio showcase** — To highlight technical skills and achievements
 - **Personal archive** — For future reference and review
 
-### Usage Guidelines
+### 📋 Usage Guidelines
 
-- **Do NOT** submit any code or assignments from this repository as your own work
-- **Do NOT** copy solutions directly for current coursework
-- **Use responsibly** — These materials are for learning and reference only
-- **Respect academic integrity** — Always follow your institution's academic honesty policies
+- ❌ **Do NOT** submit any code or assignments from this repository as your own work
+- ❌ **Do NOT** copy solutions directly for current coursework
+- ✅ **Use responsibly** — These materials are for learning and reference only
+- ✅ **Respect academic integrity** — Always follow your institution's academic honesty policies
 
-### For Students
+### 🎓 For Students
 
 If you're a current student, please:
+
 - Use these materials as **reference only**
 - Develop your own solutions and understanding
 - Seek help from instructors and teaching assistants
@@ -217,10 +282,16 @@ If you're a current student, please:
 
 ## 🎓 Degree Information
 
-- **Institution**: University of Liverpool
-- **Degree**: Bachelor of Science (BSc) in Computer Science
-- **Duration**: Three years (full-time)
-- **Focus Areas**: Software engineering, artificial intelligence, data science, distributed systems
+<div align="center">
+
+| Field | Details |
+|-------|---------|
+| **Institution** | University of Liverpool |
+| **Degree** | Bachelor of Science (BSc) in Computer Science |
+| **Duration** | Three years (full-time) |
+| **Focus Areas** | Software engineering, artificial intelligence, data science, distributed systems |
+
+</div>
 
 ---
 

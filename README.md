@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![University of Liverpool](https://img.shields.io/badge/University_of_Liverpool-C4122D?style=for-the-badge)
-![Computer Science](https://img.shields.io/badge/Computer_Science-BSc_Hons-4A90E2?style=for-the-badge)
+![University of Liverpool](https://img.shields.io/badge/University%20of%20Liverpool-C4122D?style=for-the-badge&labelColor=C4122D&color=FFFFFF)
+![Computer Science](https://img.shields.io/badge/Computer%20Science-BSc%20Hons-4A90E2?style=for-the-badge)
 ![Academic](https://img.shields.io/badge/Academic-Coursework-0080FF?style=for-the-badge)
 
 **Coursework and Study Materials from Computer Science Degree**
@@ -132,10 +132,7 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+**🔷 Haskell** **☕ Java** **🐍 Python** **🗄️ SQL**
 
 </div>
 
@@ -172,10 +169,7 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+**☕ Java** **🐍 Python** **🔷 Haskell** **🗄️ SQL**
 
 </div>
 
@@ -183,11 +177,7 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**🧠 TensorFlow** **🔥 PyTorch** **📊 scikit-learn** **🐼 pandas** **🔢 NumPy**
 
 </div>
 
@@ -195,8 +185,7 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**⚡ Apache Spark** **📓 Jupyter**
 
 </div>
 
@@ -204,10 +193,7 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+**📦 Git** **🐙 GitHub** **💡 IntelliJ IDEA** **💻 VS Code**
 
 </div>
 
@@ -215,8 +201,7 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**🗄️ MySQL** **🐘 PostgreSQL**
 
 </div>
 
@@ -224,9 +209,7 @@ Each year contains modules organised by course code (e.g., `COMP105`, `COMP201`)
 
 <div align="center">
 
-![Webots](https://img.shields.io/badge/Webots-Robotics-FF6F00?style=flat-square)
-![RDF](https://img.shields.io/badge/RDF-Semantic_Web-FF6600?style=flat-square)
-![SPARQL](https://img.shields.io/badge/SPARQL-Query_Language-FF6600?style=flat-square)
+**🤖 Webots** **🔗 RDF** **🔍 SPARQL**
 
 </div>
 
